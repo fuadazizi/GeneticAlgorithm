@@ -212,9 +212,8 @@ class Populasi():
 sum_gen = 50
 Gen = [] 
 population = Populasi(None)
-AllBest=[]
-Indeks=[]
-i=0
+#AllBest=[]
+#Indeks=[]
 
 for i in range(sum_gen):
 	Gen.append(population)
